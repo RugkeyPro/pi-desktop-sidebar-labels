@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "local.sidebar-labels",
+  "name": "侧边栏标记",
+  "description": "为会话选择标记符号和颜色，为项目文件夹设置颜色。",
+  "version": "0.1.0",
+  "main": "main.js",
+  "permissions": [
+    "renderer.extension"
+  ],
+  "renderer": "renderer/index.mjs",
+  "author": "RugkeyPro",
+  "categories": [
+    "productivity"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/RugkeyPro/pi-desktop-sidebar-labels",
+  "homepage": "https://github.com/RugkeyPro/pi-desktop-sidebar-labels"
+}
